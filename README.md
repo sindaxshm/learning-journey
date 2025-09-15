@@ -38,13 +38,3 @@ A console-based game against the computer, featuring a best-of-3 match system, s
 I'm always open to discussing projects and new opportunities.
 *   LinkedIn: linkedin.com/in/sinda-sahmim-5643b12a1
 
-
-
-
-
-
-
-
-
-I'm always open to discussing projects and new opportunities.
-*   LinkedIn: [Add your LinkedIn URL here]
