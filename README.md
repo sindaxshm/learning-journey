@@ -27,6 +27,12 @@ A console-based game against the computer, featuring a best-of-3 match system, s
 *   **How to Run:** `RPS.py`
 
 ---
+### 03. Weather Fetcher App 🌤️
+A Python application that fetches and displays real-time weather data for any city in the world using the OpenWeatherMap API.
+
+*   **Concepts:** API integration, HTTP requests, JSON parsing, data conversion.
+*   **Code:** [View the Project Folder](/weather_app)
+*   **How to Run:** `python weather.py`
 
 ## 🛠️ Skills & Technologies
 
