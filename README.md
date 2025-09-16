@@ -33,6 +33,25 @@ A Python application that fetches and displays real-time weather data for any ci
 *   **Concepts:** API integration, HTTP requests, JSON parsing, data conversion.
 *   **Code:** [View the Project Folder](/weather_app)
 *   **How to Run:** `python weather.py`
+## Dataset
+- **`genres.csv`**: Main dataset containing 42,305 songs with audio features and genre information.
+- **`playlists.csv`**: Supplementary file mapping playlist IDs to genres.
+
+## Key Questions Explored
+1. What are the most common music genres in the dataset?
+2. Which genres have the highest danceability and energy?
+3. What are the correlations between different audio features?
+4. How does song duration vary across different genres?
+
+## Expected Findings
+- The dataset likely shows a diverse distribution of genres
+- High-energy genres like Electronic or Hip-Hop may have higher danceability
+- Strong correlations between related audio features (e.g., energy and loudness)
+- Different genres may have characteristic song lengths
+
+## How to Run
+```bash
+python spotify_analysis.py
 
 ## 🛠️ Skills & Technologies
 
