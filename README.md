@@ -50,7 +50,6 @@ A Python application that fetches and displays real-time weather data for any ci
 - Different genres may have characteristic song lengths
 
 ## How to Run
-```bash
 python spotify_analysis.py
 
 ## 🛠️ Skills & Technologies
